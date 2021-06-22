@@ -1,5 +1,5 @@
 {
-    "type": "esp32-fota-https",
+    "type": "seal-ring",
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
