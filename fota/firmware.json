@@ -1,6 +1,6 @@
 {
     "type": "seal-ring",
-    "version": 2,
+    "version": 1,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/roy-shih/esp32-ota/master/fota/sealring.bin"
